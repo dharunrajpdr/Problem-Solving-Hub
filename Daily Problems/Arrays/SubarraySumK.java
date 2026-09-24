@@ -23,7 +23,7 @@ class Main {
     }
 }
 
-//optimal (using prefixsum)
+//optimal (using prefixsum)                                                  T.C: O(n*log n) S.C: O(n)
 
 import java.util.*;
 class Main {
