@@ -33,7 +33,6 @@ class Main {
         System.out.println(subarraySum(arr,k));
     }
     public static int subarraySum(int[] arr,int k){
-        int n=arr.length;
         HashMap<Integer,Integer> map = new HashMap<>();
         map.put(0,1);                               //key:prefixSum,value:count
         int presum=0;
