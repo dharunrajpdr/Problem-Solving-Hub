@@ -1,4 +1,4 @@
-
+//using parametrized function
 //n=3   1+2+3=6
 
 class Solution {
